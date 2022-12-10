@@ -1,12 +1,12 @@
 {
   "package": {
-    "productName": "WeRead",
-    "version": "1.0.0"
+    "productName": "miHoYo Music",
+    "version": "114.5.14"
   },
   "tauri": {
     "windows": [
       {
-        "url": "https://weread.qq.com/",
+        "url": "https://music.mihoyo.team",
         "transparent": true,
         "fullscreen": false,
         "width": 1200,
