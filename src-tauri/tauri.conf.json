@@ -6,7 +6,7 @@
   "tauri": {
     "windows": [
       {
-        "url": "https://weread.qq.com/",
+        "url": "https://im.mihoyo.team/",
         "transparent": false,
         "fullscreen": false,
         "width": 1200,
